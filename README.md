@@ -11,10 +11,9 @@
 <!-- About Me -->
 ## 👨‍💻 Know More About Me
 
-- 🎓 I am an engineering student deeply passionate about **Computer Science & Engineering**.
+- 🎓 I am an engineering student deeply passionate about **SOFTWARE SOLUTIONS**.
 - ⚙️ My core interests span across **deep learning, mathematical optimization, and full-stack development**.
-- 🎮 I love building interactive experiences, from **2.5D platformers in Unity** to immersive 3D web environments.
-- 🤖 When I'm not coding web apps, I'm exploring hardware automation with microcontrollers like the ESP32 and servo-motor logic.
+- 🎮 I love building interactive experiences, from **games in Unity** to immersive 3D web environments.
 - 🤝 Always open to collaborating on inter-collegiate tech competitions, hackathons, or open-source projects!
 
 ---
