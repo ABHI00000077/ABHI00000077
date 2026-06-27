@@ -55,7 +55,7 @@
 <p align="center">
   <!-- Highly Stable LeetCode Card -->
   <a href="https://leetcode.com/ABHI7and7">
-    <img src="https://leetcard.jacoblin.cool/ABHI7and7?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats" width="48%" />
+    <img src="https://leetcard.jacoblin.cool/ABHI7and7?theme=dark&font=Fira%20Code" alt="LeetCode Stats" width="48%" />
   </a>
   
   <!-- Reliable Codeforces Stats (API fallback) -->
