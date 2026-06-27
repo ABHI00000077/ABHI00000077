@@ -54,11 +54,11 @@
 
 <p align="center">
   <!-- LeetCode Card -->
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
+  <a href="https://leetcode.com/ABHI7and7">
     <img src="https://leetcode-stats.vercel.app/api?username=YOUR_LEETCODE_USERNAME&theme=Dark" alt="LeetCode Stats" width="48%" />
   </a>
   <!-- Codeforces Card -->
-  <a href="https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME">
+  <a href="https://codeforces.com/profile/ABHI070707">
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=YOUR_CODEFORCES_USERNAME&theme=tokyonight" alt="Codeforces Stats" width="48%" />
   </a>
 </p>
