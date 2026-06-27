@@ -53,13 +53,14 @@
 ## 🏆 Competitive Programming Stats
 
 <p align="center">
-  <!-- LeetCode Card -->
+  <!-- Highly Stable LeetCode Card -->
   <a href="https://leetcode.com/ABHI7and7">
-    <img src="https://leetcode-stats.vercel.app/api?username=YOUR_LEETCODE_USERNAME&theme=Dark" alt="LeetCode Stats" width="48%" />
+    <img src="https://leetcard.jacoblin.cool/ABHI7and7?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats" width="48%" />
   </a>
-  <!-- Codeforces Card -->
+  
+  <!-- Reliable Codeforces Stats (API fallback) -->
   <a href="https://codeforces.com/profile/ABHI070707">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=YOUR_CODEFORCES_USERNAME&theme=tokyonight" alt="Codeforces Stats" width="48%" />
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=ABHI070707&theme=tokyonight" alt="Codeforces Stats" width="48%" onerror="this.src='https://img.shields.io/badge/Codeforces_Profile-View_Stats-%231F8ACB?style=for-the-badge&logo=codeforces';"/>
   </a>
 </p>
 
