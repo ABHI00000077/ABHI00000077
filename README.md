@@ -7,7 +7,14 @@
 </p>
 
 ---
-
+<!-- Connect -->
+##  Portfolio
+<p align="center">
+  <!-- Portfolio Button -->
+  <a href="https://elevator-portfolio-rust.vercel.app/">
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-%23252525.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 <!-- About Me -->
 ## 👨‍💻 Know More About Me
 
