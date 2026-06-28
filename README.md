@@ -3,7 +3,7 @@
 <h3 align="center">Software Developer Enthusiast | Problem Solver | Creator</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;Deep+Learning+%26+Data+Science;Game+Development+(Unity);Cybersecurity+%26+3D+Web+Design" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;Game+Development+(Unity);Cybersecurity+%26+3D+Web+Design" alt="Typing SVG" />
 </p>
 
 ---
